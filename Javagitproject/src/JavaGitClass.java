@@ -7,6 +7,7 @@ public static void main(String[] args) {
 	System.out.println("hi this is Jinal");
 	System.out.println("hi this is Minakshi");
 	System.out.println("hi this is Minakshi 2");
+	System.out.println("hi-------------------");
 	
 }
 }
